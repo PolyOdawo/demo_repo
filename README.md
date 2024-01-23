@@ -1,3 +1,3 @@
 # Demo 
 
-Learning how to use git properly.
+Learning how to use git properly!
